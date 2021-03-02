@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on nobody knows it. 
+- 🔭 I’m currently working on "nobody knows it". 
 - ⚡ Fun fact: I play soccer in video games and real life.
 - :computer: I design products and develop small things.
+- :beginner: Soonly, chaos republic engineer.
 <!--
 **firstguzman/firstguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
