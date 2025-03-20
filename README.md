@@ -1,5 +1,5 @@
-### Hi there 👋
-- :computer: Sofware engineer @Yummy.
+### :computer: Sofware engineer @ Yummy
+- 💬 @firstguzman in all socials media.
 - ⚡ Fun fact: I play soccer in video games and real life.
 <!--
 **firstguzman/firstguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
